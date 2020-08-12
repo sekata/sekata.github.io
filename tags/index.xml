@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Fri, 07 Aug 2020 19:36:41 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 19:47:09 +0700</lastBuildDate>
     
 	<atom:link href="https://www.sekata.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,27 @@
     <item>
       <title>Karya</title>
       <link>https://www.sekata.web.id/tags/karya/</link>
-      <pubDate>Fri, 07 Aug 2020 19:36:41 +0700</pubDate>
+      <pubDate>Wed, 12 Aug 2020 19:47:09 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/karya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puisi</title>
+      <link>https://www.sekata.web.id/tags/puisi/</link>
+      <pubDate>Wed, 12 Aug 2020 19:47:09 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/puisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setia Naka Andrian</title>
+      <link>https://www.sekata.web.id/tags/setia-naka-andrian/</link>
+      <pubDate>Wed, 12 Aug 2020 19:47:09 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/setia-naka-andrian/</guid>
       <description></description>
     </item>
     
@@ -27,15 +45,6 @@
       <pubDate>Fri, 07 Aug 2020 19:36:41 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/peribahasa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Puisi</title>
-      <link>https://www.sekata.web.id/tags/puisi/</link>
-      <pubDate>Sun, 02 Aug 2020 05:41:27 +0700</pubDate>
-      
-      <guid>https://www.sekata.web.id/tags/puisi/</guid>
       <description></description>
     </item>
     

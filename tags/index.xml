@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Wed, 12 Aug 2020 19:47:09 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 20:16:51 +0700</lastBuildDate>
     
 	<atom:link href="https://www.sekata.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Karya</title>
       <link>https://www.sekata.web.id/tags/karya/</link>
-      <pubDate>Wed, 12 Aug 2020 19:47:09 +0700</pubDate>
+      <pubDate>Thu, 13 Aug 2020 20:16:51 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/karya/</guid>
       <description></description>
@@ -24,9 +24,18 @@
     <item>
       <title>Puisi</title>
       <link>https://www.sekata.web.id/tags/puisi/</link>
-      <pubDate>Wed, 12 Aug 2020 19:47:09 +0700</pubDate>
+      <pubDate>Thu, 13 Aug 2020 20:16:51 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/puisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puisi Perpisahan</title>
+      <link>https://www.sekata.web.id/tags/puisi-perpisahan/</link>
+      <pubDate>Thu, 13 Aug 2020 20:16:51 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/puisi-perpisahan/</guid>
       <description></description>
     </item>
     
@@ -2052,15 +2061,6 @@
       <pubDate>Thu, 25 Apr 2019 04:15:00 +0000</pubDate>
       
       <guid>https://www.sekata.web.id/tags/binthy-moeya-s/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Puisi Perpisahan</title>
-      <link>https://www.sekata.web.id/tags/puisi-perpisahan/</link>
-      <pubDate>Thu, 25 Apr 2019 04:15:00 +0000</pubDate>
-      
-      <guid>https://www.sekata.web.id/tags/puisi-perpisahan/</guid>
       <description></description>
     </item>
     

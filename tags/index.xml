@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 20:16:51 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 19:38:35 +0700</lastBuildDate>
     
 	<atom:link href="https://www.sekata.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Karya</title>
       <link>https://www.sekata.web.id/tags/karya/</link>
-      <pubDate>Thu, 13 Aug 2020 20:16:51 +0700</pubDate>
+      <pubDate>Sat, 15 Aug 2020 19:38:35 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/karya/</guid>
       <description></description>
@@ -24,9 +24,27 @@
     <item>
       <title>Puisi</title>
       <link>https://www.sekata.web.id/tags/puisi/</link>
-      <pubDate>Thu, 13 Aug 2020 20:16:51 +0700</pubDate>
+      <pubDate>Sat, 15 Aug 2020 19:38:35 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/puisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puisi Galau</title>
+      <link>https://www.sekata.web.id/tags/puisi-galau/</link>
+      <pubDate>Sat, 15 Aug 2020 19:38:35 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/puisi-galau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tira Soekardi</title>
+      <link>https://www.sekata.web.id/tags/tira-soekardi/</link>
+      <pubDate>Sat, 15 Aug 2020 19:38:35 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/tira-soekardi/</guid>
       <description></description>
     </item>
     
@@ -216,15 +234,6 @@
       <pubDate>Tue, 31 Mar 2020 03:37:35 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/alex-r.-nainggolan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Puisi Galau</title>
-      <link>https://www.sekata.web.id/tags/puisi-galau/</link>
-      <pubDate>Tue, 24 Mar 2020 02:19:16 +0700</pubDate>
-      
-      <guid>https://www.sekata.web.id/tags/puisi-galau/</guid>
       <description></description>
     </item>
     

@@ -17,6 +17,14 @@ a:hover {
     text-decoration: none;
 }
 
+.commento-root {
+    overflow-x: hidden;
+    padding: 0;
+    width: 72%;
+    font-family: inherit;
+    margin: 0 auto;
+}
+
 .relative {
     position: relative;
 }

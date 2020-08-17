@@ -17,14 +17,6 @@ a:hover {
     text-decoration: none;
 }
 
-.commento-root {
-    overflow-x: hidden;
-    padding: 0;
-    width: 72%;
-    font-family: inherit;
-    margin: 0 auto;
-}
-
 .relative {
     position: relative;
 }
@@ -1553,7 +1545,7 @@ i.fa-facebook-f {
 }
 
 .fe {
-    margin-top: 5px;
+    margin-top: 15px;
 }
 
 .da {
@@ -1561,7 +1553,7 @@ i.fa-facebook-f {
 }
 
 .n {
-    display: flex;
+    display: none;
 }
 
 .gx {

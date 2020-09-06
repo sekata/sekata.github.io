@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Sun, 30 Aug 2020 13:47:05 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 07:47:05 +0700</lastBuildDate>
     
 	<atom:link href="https://www.sekata.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Karya</title>
       <link>https://www.sekata.web.id/tags/karya/</link>
-      <pubDate>Sun, 30 Aug 2020 13:47:05 +0700</pubDate>
+      <pubDate>Sun, 06 Sep 2020 07:47:05 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/karya/</guid>
       <description></description>
@@ -24,9 +24,27 @@
     <item>
       <title>Peribahasa</title>
       <link>https://www.sekata.web.id/tags/peribahasa/</link>
-      <pubDate>Sun, 30 Aug 2020 13:47:05 +0700</pubDate>
+      <pubDate>Sun, 06 Sep 2020 07:47:05 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/peribahasa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nursini Rais</title>
+      <link>https://www.sekata.web.id/tags/nursini-rais/</link>
+      <pubDate>Sun, 06 Sep 2020 07:39:30 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/nursini-rais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Puisi</title>
+      <link>https://www.sekata.web.id/tags/puisi/</link>
+      <pubDate>Sun, 06 Sep 2020 07:39:30 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/puisi/</guid>
       <description></description>
     </item>
     
@@ -36,15 +54,6 @@
       <pubDate>Sun, 30 Aug 2020 07:18:27 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/budhi-setyawan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Puisi</title>
-      <link>https://www.sekata.web.id/tags/puisi/</link>
-      <pubDate>Sun, 30 Aug 2020 07:18:27 +0700</pubDate>
-      
-      <guid>https://www.sekata.web.id/tags/puisi/</guid>
       <description></description>
     </item>
     

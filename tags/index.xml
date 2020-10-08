@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2020</copyright>
-    <lastBuildDate>Fri, 02 Oct 2020 05:47:05 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2020 09:32:27 +0700</lastBuildDate>
     
 	<atom:link href="https://www.sekata.web.id/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,34 @@
     <item>
       <title>Karya</title>
       <link>https://www.sekata.web.id/tags/karya/</link>
-      <pubDate>Fri, 02 Oct 2020 05:47:05 +0700</pubDate>
+      <pubDate>Thu, 08 Oct 2020 09:32:27 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/karya/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Puisi</title>
+      <link>https://www.sekata.web.id/tags/puisi/</link>
+      <pubDate>Thu, 08 Oct 2020 09:32:27 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/puisi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sabiq Carebesth</title>
+      <link>https://www.sekata.web.id/tags/sabiq-carebesth/</link>
+      <pubDate>Thu, 08 Oct 2020 09:32:27 +0700</pubDate>
+      
+      <guid>https://www.sekata.web.id/tags/sabiq-carebesth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Peribahasa</title>
       <link>https://www.sekata.web.id/tags/peribahasa/</link>
-      <pubDate>Fri, 02 Oct 2020 05:47:05 +0700</pubDate>
+      <pubDate>Fri, 02 Oct 2020 05:57:00 +0000</pubDate>
       
       <guid>https://www.sekata.web.id/tags/peribahasa/</guid>
       <description></description>
@@ -36,15 +54,6 @@
       <pubDate>Sun, 13 Sep 2020 19:34:12 +0700</pubDate>
       
       <guid>https://www.sekata.web.id/tags/joko-pinurbo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Puisi</title>
-      <link>https://www.sekata.web.id/tags/puisi/</link>
-      <pubDate>Sun, 13 Sep 2020 19:34:12 +0700</pubDate>
-      
-      <guid>https://www.sekata.web.id/tags/puisi/</guid>
       <description></description>
     </item>
     
